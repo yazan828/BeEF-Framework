@@ -15,7 +15,7 @@ When the attacker starts BeEF, the User Interface and Communication Channel are 
 * Integration with Metasploit Framework 
 * Phishing attacks
 
-![alt text](C:\Users\Yazan\Desktop\UWO\Introduction To Hacking\Hacking Tool Presentation\Diagram2.PNG?raw=true)
+![alt text](C:\Users\Yazan\Desktop\UWO\Introduction To Hacking\Hacking Tool Presentation\Diagram2.png?raw=true)
 
 
 
