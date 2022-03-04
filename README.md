@@ -16,6 +16,7 @@ When the attacker starts BeEF, the User Interface and Communication Channel are 
 * Phishing attacks
 
 ![alt text](https://github.com/yazan828/Test/blob/main/Diagram2.png "BeEF Attack Scenario [5]")
+
 The figure above demonstrates an overview of a client attack using BeEF by injecting the script into the hook and forward it to the target. 
 ## Who Uses BeEF?
 The primary purpose of BeEF is to allow qualified penetration testers to evaluate the security measures of web browsers and examine exploitability by simulating the attacks. However, BeEF is also used by hackers who are either targeting specific victims or spreading hooks through the network to gather sensitive information without consent. Plus, BeEF is continuously being used for educational purposes. 
