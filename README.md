@@ -19,7 +19,7 @@ The method BeEF follows to hook web browsers consists of three phases Initiating
 * Integration with Metasploit Framework 
 * Phishing attacks
 
-![alt text](https://github.com/yazan828/Test/blob/main/Commands.PNG "Various BeEF Commands")
+![alt text](https://github.com/yazan828/Test/blob/main/Command.PNG "Various BeEF Commands")
 
 ![alt text](https://github.com/yazan828/Test/blob/main/Diagram.png "BeEF Attack Scenario [5]")
 
