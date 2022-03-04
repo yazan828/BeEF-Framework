@@ -17,6 +17,8 @@ When the attacker starts BeEF, the User Interface and Communication Channel are 
 
 ![alt text](C:\Users\Yazan\Desktop\UWO\Introduction_To_Hacking\Hacking_Tool_Presentation\Diagram2.png)
 
+![My Image](C:\Users\Yazan\Desktop\UWO\Introduction_To_Hacking\Hacking_Tool_Presentation\Diagram2.png)
+
 
 
 [1]: https://writingbros.com/essay-examples/an-in-depth-look-at-browser-exploitation-using-beef-framework/
