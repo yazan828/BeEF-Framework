@@ -9,7 +9,7 @@ BeEF evades network security measures and anti-virus applications in the host sy
 Once an unaware user opens the received URL, the browser is hooked without noticing any unusual activity while the attacker accesses the user’s session. Hence, the attacker will have access to the targeted browser and will be able to launch MITM attacks, Social Engineering attacks, Phishing, Cookie Hijacking, Webcam Enabling, Information Gathering, and many other commands that may further attack the host system.
 ## How Does It Work?
 When the attacker starts BeEF, the User Interface and Communication Channel are started. The method BeEF follows to hook web browsers consists of three phases Initiating, Retaining, and Attacking. During initiating, the user opens the received URL and the browser executes the hook that contains instructions to initiate a communication channel between the hooked browser and the attacker. In the retaining phase, an active communication channel is established to start the attacking phase. Using Communication Servers, the attacker is able to communicate with the hooked browsers via HTTP. Lastly, after hooking the browser and establishing an active channel for communication, the attacker can start delivering JavaScript payloads and sending various commands through the User Interface. BeEF offers a variety set of features such as [5][5],[6][6]: 
-..* Key logging
+* Key logging
 * Using hooked browser as proxy
 * Many social engineering techniques
 * Integration with Metasploit Framework 
