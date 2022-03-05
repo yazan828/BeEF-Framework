@@ -46,6 +46,8 @@ Send the following hook to the targeted browser
 ```
 http://Your_IP_Address:3000/demos/butcher/index.html
 ```
+Once the user opens the URL, the targeted browser is now hooked
+
 [1]: https://writingbros.com/essay-examples/an-in-depth-look-at-browser-exploitation-using-beef-framework/
 [2]: https://github.com/beefproject/beef/wiki#overview
 [3]: https://www.researchgate.net/publication/322398374_Web_Browser_Attack_Using_BeEF_Framework
