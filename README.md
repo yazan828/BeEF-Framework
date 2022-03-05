@@ -27,18 +27,18 @@ The figure above demonstrates an overview of a client attack using BeEF by injec
 ## Who Uses BeEF & Why Is It Useful?
 The primary purpose of BeEF is to allow qualified penetration testers to evaluate the security measures of web browsers and examine exploitability by simulating the attacks. However, BeEF is also used by hackers who are either targeting specific victims or spreading hooks through the network to gather sensitive information without consent. Plus, BeEF is continuously being used for educational purposes due to its simplicity and strong capability [3][3]. 
 ## Demonstration
-This is a short demonstration on how BeEF Framework works on LAN networks. To start, you can install BeEF in few quick steps.
+This is a short demonstration on how BeEF Framework works on LAN networks. To start, you can install BeEF in few quick steps. (See [7][7] if you encouter any errors)
 ```console
 $ git clone https://github.com/beefproject/beef.git
 $ cd /beef
 $ ./install
 ```
-Now you are ready to launch BeEF by typing
+Now you are ready to launch BeEF by typing:
 ```console
 $ beef-xss
 ```
-
-
+![alt text]()
+![alt text]()
 
 
 [1]: https://writingbros.com/essay-examples/an-in-depth-look-at-browser-exploitation-using-beef-framework/
@@ -47,3 +47,4 @@ $ beef-xss
 [4]: https://www.secureideas.com/blog/2013/06/getting-started-with-beef-browser.html#:~:text=BeEF%2C%20the%20Browser%20Exploitation%20Framework,environment%2C%20bypassing%20the%20hardened%20perimeter.
 [5]: https://ro.ecu.edu.au/cgi/viewcontent.cgi?article=1131&context=adf
 [6]: https://github.com/beefproject/beef/wiki/How-BeEF-Works
+[7]: https://github.com/beefproject/beef
