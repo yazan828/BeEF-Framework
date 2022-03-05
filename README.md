@@ -30,6 +30,12 @@ The primary purpose of BeEF is to allow qualified penetration testers to evaluat
 This is a short demonstration on how BeEF Framework works on LAN networks. To start, you can install BeEF in few quick steps.
 ```console
 $ git clone https://github.com/beefproject/beef.git
+$ cd /beef
+$ ./install
+```
+Now you are ready to launch BeEF by typing
+```console
+$ beef-xss
 ```
 
 
