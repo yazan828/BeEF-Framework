@@ -8,7 +8,7 @@ BeEF evades network security measures and anti-virus applications in the host sy
 ```
 Once an unaware user opens the received URL, the browser is hooked without noticing any unusual activity while the attacker accesses the user’s session. Hence, the attacker will have access to the targeted browser and will be able to launch MITM attacks, Social Engineering attacks, Phishing, Cookie Hijacking, Webcam Enabling, Information Gathering, and many other commands that may further attack the host system.
 ## How Does It Work?
-When the attacker starts BeEF, the User Interface and Communication Channel are started.
+When the attacker starts BeEF, the User Interface and Communication Server are started.
 
 ![alt text](https://github.com/yazan828/Test/blob/main/BeEFUI.PNG "BeEF User Interface")
 
