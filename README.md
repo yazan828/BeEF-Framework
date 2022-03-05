@@ -40,6 +40,8 @@ $ beef-xss
 Now, BeEF will start on your coomand line and will open a web user interface
 ![alt text](https://github.com/yazan828/BeEF-Framework/blob/main/BeEF_Start.png)
 ![alt text](https://github.com/yazan828/BeEF-Framework/blob/main/BeEF_Authentication.png)
+After inserting your credentials, you can now access the user panel.
+![alt text](https://github.com/yazan828/BeEF-Framework/blob/main/BeEF_UI.png)
 
 
 [1]: https://writingbros.com/essay-examples/an-in-depth-look-at-browser-exploitation-using-beef-framework/
