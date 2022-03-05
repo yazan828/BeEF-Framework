@@ -37,8 +37,9 @@ Now you are ready to launch BeEF by typing:
 ```console
 $ beef-xss
 ```
-![alt text]()
-![alt text]()
+Now, BeEF will start on your coomand line and will open a web user interface
+![alt text](https://github.com/yazan828/BeEF-Framework/blob/main/BeEF_Start.png)
+![alt text](https://github.com/yazan828/BeEF-Framework/blob/main/BeEF_Authentication.png)
 
 
 [1]: https://writingbros.com/essay-examples/an-in-depth-look-at-browser-exploitation-using-beef-framework/
