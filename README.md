@@ -51,8 +51,8 @@ Once the user opens the URL, the targeted browser is now hooked
 ![alt text](https://github.com/yazan828/BeEF-Framework/blob/main/BeEF_Hooked.png "Hooked Browser as Seen From the Attacker Panel")
 
 Now, the attacker has access to the target's browser and is able to send many different commands from the commands window.
-
-
+## Additional Resources
+As mentioned before, the actual version of BeEF Framework works only over LAN Networks. Hence, some developers have developed tools that facilitate with BeEF to operate remotely over WAN such as [8][8],[9][9]
 
 
 [1]: https://writingbros.com/essay-examples/an-in-depth-look-at-browser-exploitation-using-beef-framework/
@@ -62,3 +62,5 @@ Now, the attacker has access to the target's browser and is able to send many di
 [5]: https://ro.ecu.edu.au/cgi/viewcontent.cgi?article=1131&context=adf
 [6]: https://github.com/beefproject/beef/wiki/How-BeEF-Works
 [7]: https://github.com/beefproject/beef
+[8]: https://github.com/AzizKpln/Beef-Over-AWS
+[9]: https://github.com/stormshadow07/BeeF-Over-Wan
