@@ -44,7 +44,7 @@ After inserting your credentials, you can now access the user panel.
 ![alt text](https://github.com/yazan828/BeEF-Framework/blob/main/UI.png)
 Send the following hook to the targeted browser
 ```
-http://{Your IP Address}:3000/demos/butcher/index.html
+http://Your_IP_Address:3000/demos/butcher/index.html
 ```
 [1]: https://writingbros.com/essay-examples/an-in-depth-look-at-browser-exploitation-using-beef-framework/
 [2]: https://github.com/beefproject/beef/wiki#overview
