@@ -1,6 +1,8 @@
 # BeEF Framework
 ## Introduction
 According to [1][1] around 45% of Web users are not updating to the latest versions of their browsers with the up-to-date security measures, which empowers various tools to exploit their browsers' vulnerabilities. BeEF which is the short term of Browser Exploitation Framework, initiated in 2006 by Wade Alcorn is an open-source hacking and penetration testing tool, mainly to perform web browser attacks and exploit vulnerabilities using a capable and simple user interface [2][2]. 
+### Browser Exploitation
+hello
 ## What Does BeEF Do?
 BeEF evades network security measures and anti-virus applications in the host system by exploiting vulnerabilities in web browsers [3][3]. It focuses on taking advantage of a web browser’s vulnerabilities to hijack and take control of the target. By “hooking” one or many number of browsers, the attacker starts launching various type of commands that attacks the browser and further attacks the system [3][3]. In order to perform an attack, the attacker generates a customized URL that includes a JavaScript hook and forwards it to the targeted user using emails, social network links and many other possible ways to open it [4]. 
 ```javascript
