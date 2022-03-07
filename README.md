@@ -35,6 +35,7 @@ When a vulnerability in a web browser is found, the vendor often releases a patc
 * Do not click on suspicious links or attachments
 Most social engineering techniques are often used by tricking targets to open URLs to suspicious websites. Hence, verifying that an attachment is legitimate is important before clicking it. There are multiple online tools to check if the recieved URL is safe or not such as [11]
 * Install firewall and other security software
+Firewalls act as a strong barrier between the internet and the web browser which detects, blocks suspicious websites, and catches threats before breaching web security 
 ## Demonstration
 This is a short demonstration on how BeEF Framework works on LAN networks. To start, you can install BeEF in few quick steps. (See [8][8] if you encouter any errors)
 ```console
