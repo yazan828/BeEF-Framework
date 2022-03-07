@@ -28,6 +28,11 @@ The method BeEF follows to hook web browsers consists of three phases Initiating
 The figure above demonstrates an overview of a client attack using BeEF by injecting the script into the hook and forwarding it to the target. 
 ## Who Uses BeEF & Why Is It Useful?
 The primary purpose of BeEF is to allow qualified penetration testers to evaluate the security measures of web browsers and examine exploitability by simulating the attacks. However, BeEF is also used by hackers who are either targeting specific victims or spreading hooks through the network to gather sensitive information without consent. Plus, BeEF is continuously being used for educational purposes due to its simplicity and strong capability [4][4]. 
+## How To Protect Against BeEF?
+To protect a browser against BeEF or any other browser explotation tool, a number  of steps should be taken:
+* Continously update you browser
+* Do not click on suspicious links or attachments
+* Install firewall and other security software
 ## Demonstration
 This is a short demonstration on how BeEF Framework works on LAN networks. To start, you can install BeEF in few quick steps. (See [8][8] if you encouter any errors)
 ```console
