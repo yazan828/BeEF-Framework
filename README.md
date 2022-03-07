@@ -14,7 +14,12 @@ When the attacker starts BeEF, the User Interface and Communication Server are s
 
 ![alt text](https://github.com/yazan828/Test/blob/main/BeEFUI.PNG "BeEF User Interface")
 
-The method BeEF follows to hook web browsers consists of three phases Initiating, Retaining, and Attacking. During initiating, the user opens the received URL and the browser executes the hook that contains instructions to initiate a communication channel between the hooked browser and the attacker. In the retaining phase, an active communication channel is established to start the attacking phase. Using Communication Servers, the attacker is able to communicate with the hooked browsers via HTTP. Lastly, after hooking the browser and establishing an active channel for communication, the attacker can start delivering JavaScript payloads and sending various commands through the User Interface. BeEF offers a variety set of features such as [6][6],[7][7]: 
+The method BeEF follows to hook web browsers consists of three phases Initiating, Retaining, and Attacking. During initiating, the user opens the received URL and the browser executes the hook that contains instructions to initiate a communication channel between the hooked browser and the attacker. In the retaining phase, an active communication channel is established to start the attacking phase. Using Communication Servers, the attacker is able to communicate with the hooked browsers via HTTP. Lastly, after hooking the browser and establishing an active channel for communication, the attacker can start delivering JavaScript payloads and sending various commands through the User Interface.
+
+![alt text](https://github.com/yazan828/Test/blob/main/Diagram.png "BeEF Attack Scenario [6]")
+
+The figure above demonstrates an overview of a client attack using BeEF by injecting the script into the hook and forwarding it to the target. 
+BeEF offers a variety set of features such as [6][6],[7][7]: 
 * Key logging
 * Using hooked browser as proxy
 * Many social engineering techniques
@@ -22,10 +27,6 @@ The method BeEF follows to hook web browsers consists of three phases Initiating
 * Phishing attacks
 
 ![alt text](https://github.com/yazan828/Test/blob/main/Command.PNG "Various BeEF Commands")
-
-![alt text](https://github.com/yazan828/Test/blob/main/Diagram.png "BeEF Attack Scenario [6]")
-
-The figure above demonstrates an overview of a client attack using BeEF by injecting the script into the hook and forwarding it to the target. 
 ## Who Uses BeEF & Why Is It Useful?
 The primary purpose of BeEF is to allow qualified penetration testers to evaluate the security measures of web browsers and examine exploitability by simulating the attacks. However, BeEF is also used by hackers who are either targeting specific victims or spreading hooks through the network to gather sensitive information without consent. Plus, BeEF is continuously being used for educational purposes due to its simplicity and strong capability [4][4]. 
 ## How To Protect Against BeEF?
