@@ -31,7 +31,9 @@ The primary purpose of BeEF is to allow qualified penetration testers to evaluat
 ## How To Protect Against BeEF?
 To protect a browser against BeEF or any other browser explotation tool, a number  of steps should be taken:
 * Continously update you browser
+When a vulnerability in a web browser is found, the vendor often releases a patch to fix the issue causing it. Hence, updating web browser provides protection against more recent exploits.
 * Do not click on suspicious links or attachments
+Most social engineering techniques are often used by tricking targets to open URLs to suspicious websites. Hence, verifying that an attachment is legitimate is important before clicking it. There are multiple online tools to check if the recieved URL is safe or not such as [11]
 * Install firewall and other security software
 ## Demonstration
 This is a short demonstration on how BeEF Framework works on LAN networks. To start, you can install BeEF in few quick steps. (See [8][8] if you encouter any errors)
@@ -72,3 +74,4 @@ As mentioned before, the actual version of BeEF Framework works only over LAN Ne
 [8]: https://github.com/beefproject/beef
 [9]: https://github.com/AzizKpln/Beef-Over-AWS
 [10]: https://github.com/stormshadow07/BeeF-Over-Wan
+[11]: https://search.google.com/search-console/welcome?action=inspect&utm_medium=referral&utm_campaign=9012289
