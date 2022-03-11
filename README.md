@@ -30,8 +30,8 @@ BeEF offers a variety set of features such as [6][6],[7][7]:
 ## Who Uses BeEF & Why Is It Useful?
 The primary purpose of BeEF is to allow qualified penetration testers to evaluate the security measures of web browsers and examine exploitability by simulating the attacks. However, BeEF is also used by hackers who are either targeting specific victims or spreading hooks through the network to gather sensitive information without consent. Plus, BeEF is continuously being used for educational purposes due to its simplicity and strong capability [4][4]. 
 ## How To Protect Against BeEF?
-To protect a browser against BeEF or any other browser explotation tool, a number  of steps should be taken:
-* Continously update you browser:
+To protect a browser against BeEF or any other browser exploitation tool, a number  of steps should be taken:
+* Continuously update you browser:
 
 When a vulnerability in a web browser is found, the vendor often releases a patch to fix the issue causing it. Hence, updating web browser provides protection against more recent exploits.
 * Do not click on suspicious links or attachments:
